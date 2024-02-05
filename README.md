@@ -1,0 +1,1 @@
+My website is about me, my history and my skills. I also included my last 2 projects if the academy. It was very interesting and fun to play with the extensive options and decoration of the code. I learned more about the features and about the connection between HTML, CSS and Java script.
